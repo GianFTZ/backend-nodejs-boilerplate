@@ -5,6 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "tsx": "^3.12.6",
+    "typescript": "^5.0.4",
     "vitest": "^0.30.1"
   }
 }
