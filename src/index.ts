@@ -3,8 +3,9 @@ type Parameter = {
     age: number
 }
 
-function main(param: Parameter) {
+async function main(param: Parameter) {
     console.log(param)
+    console.log(process.env.PORT)
 }
 
 main({
