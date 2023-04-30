@@ -18,9 +18,5 @@
     "start:dev": "tsx watch src",
     "build": "tsup src",
     "test": "vitest"
-  },
-  "dependencies": {
-    "ioredis": "^5.3.2",
-    "redis": "^4.6.6"
   }
 }
